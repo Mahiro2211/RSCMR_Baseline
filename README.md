@@ -2,6 +2,7 @@
 remote sensing cross modal retrieval
 
 To do list
-[] processing dataset
-[] baseline model
-[] metric calculating
+
+* processing dataset
+*  baseline model
+* metric calculating
